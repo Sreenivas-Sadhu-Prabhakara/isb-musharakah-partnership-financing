@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-musharakah-partnership-financing
+description: "BIAN Service Domain: Musharakah Partnership Financing (Fulfill pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Lease And Partnership Financing"
+  isb/asset-type: "Musharakah Facility"
+  isb/control-record: "Musharakah Facility Fulfillment Arrangement"
